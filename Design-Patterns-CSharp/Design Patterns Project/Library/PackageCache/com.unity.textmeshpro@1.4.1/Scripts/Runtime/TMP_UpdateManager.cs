@@ -135,7 +135,7 @@ namespace TMPro
         #elif UNITY_2018_1_OR_NEWER
         void OnBeginFrameRendering(Camera[] cameras)
         #endif
-        {
+        
             // Exclude the PreRenderCamera
             #if UNITY_EDITOR
             if (cameras.Length == 1 && cameras[0].cameraType == CameraType.Preview) 
@@ -235,4 +235,3 @@ namespace TMPro
             m_InternalUpdateLookup.Remove(id);
         }
     }
-}
