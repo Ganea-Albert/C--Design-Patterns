@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Bridge.Structure\Bridge.Structure\bin\Debug\Bridge.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Bridge.Structure\Bridge.Structure\bin\Debug\Bridge.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Bridge.Structure\Bridge.Structure\bin\Debug\Bridge.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Bridge.Structure\Bridge.Structure\obj\Debug\Bridge.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Bridge.Structure\Bridge.Structure\obj\Debug\Bridge.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Bridge.Structure\Bridge.Structure\obj\Debug\Bridge.Structure.pdb

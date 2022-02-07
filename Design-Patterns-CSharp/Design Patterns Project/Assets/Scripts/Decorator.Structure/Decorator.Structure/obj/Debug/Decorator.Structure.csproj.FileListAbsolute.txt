@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Decorator.Structure\Decorator.Structure\bin\Debug\Decorator.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Decorator.Structure\Decorator.Structure\bin\Debug\Decorator.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Decorator.Structure\Decorator.Structure\bin\Debug\Decorator.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Decorator.Structure\Decorator.Structure\obj\Debug\Decorator.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Decorator.Structure\Decorator.Structure\obj\Debug\Decorator.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Decorator.Structure\Decorator.Structure\obj\Debug\Decorator.Structure.pdb
