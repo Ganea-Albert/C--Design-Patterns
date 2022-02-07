@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Adapter.Structure\Adapter.Structure\bin\Debug\Adapter.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Adapter.Structure\Adapter.Structure\bin\Debug\Adapter.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Adapter.Structure\Adapter.Structure\bin\Debug\Adapter.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Adapter.Structure\Adapter.Structure\obj\Debug\Adapter.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Adapter.Structure\Adapter.Structure\obj\Debug\Adapter.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Adapter.Structure\Adapter.Structure\obj\Debug\Adapter.Structure.pdb

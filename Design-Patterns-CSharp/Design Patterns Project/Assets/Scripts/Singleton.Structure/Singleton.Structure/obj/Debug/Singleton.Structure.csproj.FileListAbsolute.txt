@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Singleton.Structure\Singleton.Structure\bin\Debug\Singleton.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Singleton.Structure\Singleton.Structure\bin\Debug\Singleton.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Singleton.Structure\Singleton.Structure\bin\Debug\Singleton.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Singleton.Structure\Singleton.Structure\obj\Debug\Singleton.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Singleton.Structure\Singleton.Structure\obj\Debug\Singleton.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Singleton.Structure\Singleton.Structure\obj\Debug\Singleton.Structure.pdb

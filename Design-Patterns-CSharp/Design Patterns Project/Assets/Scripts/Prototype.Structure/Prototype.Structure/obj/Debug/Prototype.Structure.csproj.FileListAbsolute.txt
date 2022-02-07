@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Prototype.Structure\Prototype.Structure\bin\Debug\Prototype.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Prototype.Structure\Prototype.Structure\bin\Debug\Prototype.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Prototype.Structure\Prototype.Structure\bin\Debug\Prototype.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Prototype.Structure\Prototype.Structure\obj\Debug\Prototype.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Prototype.Structure\Prototype.Structure\obj\Debug\Prototype.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Prototype.Structure\Prototype.Structure\obj\Debug\Prototype.Structure.pdb
