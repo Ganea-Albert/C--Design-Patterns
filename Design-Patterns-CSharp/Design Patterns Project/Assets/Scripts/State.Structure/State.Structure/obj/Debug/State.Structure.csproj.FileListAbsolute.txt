@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\State.Structure\State.Structure\bin\Debug\State.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\State.Structure\State.Structure\bin\Debug\State.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\State.Structure\State.Structure\bin\Debug\State.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\State.Structure\State.Structure\obj\Debug\State.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\State.Structure\State.Structure\obj\Debug\State.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\State.Structure\State.Structure\obj\Debug\State.Structure.pdb

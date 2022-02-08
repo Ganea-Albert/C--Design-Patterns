@@ -1,0 +1,7 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Interpreter.Structure\Interpreter.Structure\bin\Debug\Interpreter.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Interpreter.Structure\Interpreter.Structure\bin\Debug\Interpreter.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Interpreter.Structure\Interpreter.Structure\bin\Debug\Interpreter.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Interpreter.Structure\Interpreter.Structure\obj\Debug\Interpreter.Structure.csprojAssemblyReference.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Interpreter.Structure\Interpreter.Structure\obj\Debug\Interpreter.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Interpreter.Structure\Interpreter.Structure\obj\Debug\Interpreter.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Interpreter.Structure\Interpreter.Structure\obj\Debug\Interpreter.Structure.pdb

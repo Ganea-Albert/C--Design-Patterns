@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Iterator.Structure\Iterator.Structure\bin\Debug\Iterator.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Iterator.Structure\Iterator.Structure\bin\Debug\Iterator.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Iterator.Structure\Iterator.Structure\bin\Debug\Iterator.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Iterator.Structure\Iterator.Structure\obj\Debug\Iterator.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Iterator.Structure\Iterator.Structure\obj\Debug\Iterator.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Iterator.Structure\Iterator.Structure\obj\Debug\Iterator.Structure.pdb

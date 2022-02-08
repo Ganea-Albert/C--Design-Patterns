@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Observer.Structure\Observer.Structure\bin\Debug\Observer.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Observer.Structure\Observer.Structure\bin\Debug\Observer.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Observer.Structure\Observer.Structure\bin\Debug\Observer.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Observer.Structure\Observer.Structure\obj\Debug\Observer.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Observer.Structure\Observer.Structure\obj\Debug\Observer.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Observer.Structure\Observer.Structure\obj\Debug\Observer.Structure.pdb

@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Visitor.Structure\Visitor.Structure\bin\Debug\Visitor.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Visitor.Structure\Visitor.Structure\bin\Debug\Visitor.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Visitor.Structure\Visitor.Structure\bin\Debug\Visitor.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Visitor.Structure\Visitor.Structure\obj\Debug\Visitor.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Visitor.Structure\Visitor.Structure\obj\Debug\Visitor.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Visitor.Structure\Visitor.Structure\obj\Debug\Visitor.Structure.pdb
