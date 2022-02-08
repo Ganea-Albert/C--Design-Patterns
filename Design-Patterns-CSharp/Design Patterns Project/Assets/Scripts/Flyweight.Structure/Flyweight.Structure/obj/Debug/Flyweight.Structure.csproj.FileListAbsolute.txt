@@ -1,0 +1,7 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight.Structure\Flyweight.Structure\bin\Debug\Flyweight.Structure.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight.Structure\Flyweight.Structure\bin\Debug\Flyweight.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight.Structure\Flyweight.Structure\bin\Debug\Flyweight.Structure.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight.Structure\Flyweight.Structure\obj\Debug\Flyweight.Structure.csprojAssemblyReference.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight.Structure\Flyweight.Structure\obj\Debug\Flyweight.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight.Structure\Flyweight.Structure\obj\Debug\Flyweight.Structure.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight.Structure\Flyweight.Structure\obj\Debug\Flyweight.Structure.pdb
