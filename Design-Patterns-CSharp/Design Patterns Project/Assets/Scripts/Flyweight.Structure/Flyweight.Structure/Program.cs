@@ -10,6 +10,7 @@ namespace Flyweight.Structure
     {
         static void Main(string[] args)
         {
+
             int extrinsicstate = 22;
 
             FlyweightFactory factory = new FlyweightFactory();
@@ -67,6 +68,7 @@ namespace Flyweight.Structure
         public override void Operation(int extrinsicstate)
         {
             Console.WriteLine("UnsharedConcreteFlyweight: " + extrinsicstate);
+
         }
     }
 }

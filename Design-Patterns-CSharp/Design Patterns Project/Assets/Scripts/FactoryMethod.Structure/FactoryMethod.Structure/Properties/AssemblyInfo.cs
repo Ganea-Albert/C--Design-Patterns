@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Flyweight.Structure")]
+[assembly: AssemblyTitle("FactoryMethod.Structure")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Flyweight.Structure")]
+[assembly: AssemblyProduct("FactoryMethod.Structure")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-
-[assembly: Guid("27f40b0f-a351-400b-957c-9c37c77786f3")]
-=======
-[assembly: Guid("253b60c5-6009-4e01-9394-f2537454a097")]
-
+[assembly: Guid("71bd43ec-5729-4a50-9e0a-d0fa8f27a4a3")]
 
 // Version information for an assembly consists of the following four values:
 //
