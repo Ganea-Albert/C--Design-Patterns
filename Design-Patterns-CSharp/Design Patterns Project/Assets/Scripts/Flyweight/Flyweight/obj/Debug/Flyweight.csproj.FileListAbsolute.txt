@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Flyweight\Flyweight\obj\Debug\Flyweight.pdb
