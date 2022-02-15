@@ -1,0 +1,2 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Mediator\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Mediator\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
