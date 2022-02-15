@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Chain.Of.Responsibilities\Chain.Of.Responsibilities\bin\Debug\Chain.Of.Responsibilities.exe.config
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Chain.Of.Responsibilities\Chain.Of.Responsibilities\bin\Debug\Chain.Of.Responsibilities.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Chain.Of.Responsibilities\Chain.Of.Responsibilities\bin\Debug\Chain.Of.Responsibilities.pdb
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Chain.Of.Responsibilities\Chain.Of.Responsibilities\obj\Debug\Chain.Of.Responsibilities.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Chain.Of.Responsibilities\Chain.Of.Responsibilities\obj\Debug\Chain.Of.Responsibilities.exe
+C:\Users\Albert\Documents\Git\Design-Patterns-CSharp\Design Patterns Project\Assets\Scripts\Chain.Of.Responsibilities\Chain.Of.Responsibilities\obj\Debug\Chain.Of.Responsibilities.pdb
